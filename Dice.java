@@ -56,11 +56,6 @@ public class Dice {
 				// print result
 				} System.out.println(fir+" and "+sec+" "+freq+" times.");
 			}
-			
-			
 		}
 	}
-	
-
-	
 }
